@@ -653,12 +653,12 @@ section.lazy-placeholder:after {
 }
 .cid-rwtYwhIgku .navbar {
   padding: .5rem 0;
-  background: #3d626c;
+  background: #7f1933;
   transition: none;
   min-height: 77px;
 }
 .cid-rwtYwhIgku .navbar-dropdown.bg-color.transparent.opened {
-  background: #3d626c;
+  background: #7f1933;
 }
 .cid-rwtYwhIgku a {
   font-style: normal;
@@ -763,7 +763,7 @@ section.lazy-placeholder:after {
 .cid-rwtYwhIgku .dropdown .dropdown-menu .dropdown-item {
   width: auto;
   font-family: EB Garamond !important;
-  color: #3d626c !important;
+  color: #7f1933 !important;
   padding: 0 .6rem!important;
   border-radius: 0;
   background: #ffffff;
@@ -1074,6 +1074,16 @@ section.lazy-placeholder:after {
   padding-bottom: 60px;
   background-image: url("../../../assets/images/profile-picture-2000x1333.jpg");
 }
+.cid-rv2O8Gg1vh H1 {
+  color: #7f1933;
+}
+.cid-rv2O8Gg1vh .mbr-text,
+.cid-rv2O8Gg1vh .mbr-section-btn {
+  color: #232323;
+}
+.cid-rv2O8Gg1vh H3 {
+  color: #7f1933;
+}
 .cid-rv3a3iRxom {
   padding-top: 75px;
   padding-bottom: 0px;
@@ -1088,6 +1098,10 @@ section.lazy-placeholder:after {
     flex: 0 0 20%;
     max-width: 20%;
   }
+}
+.cid-rv3a3iRxom .card-title,
+.cid-rv3a3iRxom .card-img {
+  color: #cc2952;
 }
 .cid-rv3bHqciqS {
   padding-top: 30px;
@@ -1104,6 +1118,13 @@ section.lazy-placeholder:after {
   .cid-rv3bHqciqS .card-wrapper {
     padding: 0 1rem;
   }
+}
+.cid-rv3bHqciqS .card-title {
+  color: #cc2952;
+}
+.cid-rv3bHqciqS .mbr-text,
+.cid-rv3bHqciqS .mbr-section-btn {
+  color: #232323;
 }
 .cid-rv3a70AbAh {
   padding-top: 45px;
@@ -1130,6 +1151,13 @@ section.lazy-placeholder:after {
 }
 .cid-rv3a70AbAh .mbr-text {
   color: #879a9f;
+}
+.cid-rv3a70AbAh .card-title {
+  color: #7f1933;
+}
+.cid-rv3a70AbAh .mbr-text,
+.cid-rv3a70AbAh .mbr-section-btn {
+  color: #cc2952;
 }
 .cid-rv39ZAS0en {
   padding-top: 90px;
@@ -1209,7 +1237,10 @@ section.lazy-placeholder:after {
   }
 }
 .cid-rv39ZAS0en .section-content-text {
-  color: #767676;
+  color: #232323;
+}
+.cid-rv39ZAS0en .section-content-title {
+  color: #7f1933;
 }
 .cid-rv3aif4IVl {
   padding-top: 60px;
@@ -1258,6 +1289,16 @@ section.lazy-placeholder:after {
     justify-content: center;
   }
 }
+.cid-rv3aif4IVl .card-title {
+  color: #7f1933;
+}
+.cid-rv3aif4IVl .mbr-text,
+.cid-rv3aif4IVl .mbr-section-btn {
+  color: #232323;
+}
+.cid-rv3aif4IVl .items {
+  color: #7f1933;
+}
 .cid-rv3acOkXPn {
   padding-top: 90px;
   padding-bottom: 90px;
@@ -1275,6 +1316,17 @@ section.lazy-placeholder:after {
 }
 .cid-rv3acOkXPn .mbr-text {
   color: #767676;
+}
+.cid-rv3acOkXPn .main-title {
+  color: #7f1933;
+}
+.cid-rv3acOkXPn .card-title,
+.cid-rv3acOkXPn .card-img {
+  color: #cc2952;
+}
+.cid-rv3acOkXPn .mbr-text,
+.cid-rv3acOkXPn .mbr-section-btn {
+  color: #232323;
 }
 .cid-rv3akn3MA3 {
   padding-top: 45px;
@@ -1336,6 +1388,12 @@ section.lazy-placeholder:after {
   font-size: 80px;
   color: #3d626c;
 }
+.cid-rv3an6BgKt H3 {
+  color: #7f1933;
+}
+.cid-rv3an6BgKt H4 {
+  color: #cc2952;
+}
 .cid-rv3apYYGXm {
   padding-top: 30px;
   padding-bottom: 45px;
@@ -1357,7 +1415,7 @@ section.lazy-placeholder:after {
   padding: .4rem 0.8rem;
 }
 .cid-rv3apYYGXm .nav-tabs .nav-link {
-  color: #3d626c;
+  color: #7f1933;
   font-style: normal;
   font-weight: 500;
   transition: all .5s;
@@ -1367,17 +1425,17 @@ section.lazy-placeholder:after {
 }
 .cid-rv3apYYGXm .nav-tabs .nav-link:hover {
   cursor: pointer;
-  color: #3d626c;
-  border-bottom: 2px solid #3d626c;
+  color: #cc2952;
+  border-bottom: 2px solid #cc2952;
 }
 .cid-rv3apYYGXm .nav-tabs .nav-link.active {
   font-weight: 500;
-  color: #3d626c;
+  color: #cc2952;
   font-style: normal;
-  border-bottom: 2px solid #3d626c;
+  border-bottom: 2px solid #cc2952;
 }
 .cid-rv3apYYGXm P {
-  color: #9c969b;
+  color: #232323;
 }
 .cid-rv3apYYGXm H2 {
   color: #57468b;
@@ -1420,9 +1478,11 @@ section.lazy-placeholder:after {
 }
 .cid-rv3breI29k P {
   text-align: center;
+  color: #232323;
 }
 .cid-rv3breI29k .card-title {
   text-align: center;
+  color: #7f1933;
 }
 .cid-rv3breI29k .card-img {
   position: relative;
@@ -1470,6 +1530,10 @@ section.lazy-placeholder:after {
     flex: 0 0 20%;
     max-width: 20%;
   }
+}
+.cid-rv3aDi1Ey4 .mbr-section-title,
+.cid-rv3aDi1Ey4 .line-align {
+  color: #7f1933;
 }
 .cid-rv3arOc96z {
   padding-top: 120px;
@@ -1558,6 +1622,9 @@ section.lazy-placeholder:after {
   padding-top: 60px;
   padding-bottom: 0px;
   background-color: #ffffff;
+}
+.cid-rv3b4JhFfn H1 {
+  color: #7f1933;
 }
 .cid-rv3awA59xA {
   padding-top: 30px;
@@ -1716,7 +1783,10 @@ section.lazy-placeholder:after {
 }
 .cid-rv3axqIW22 .mbr-text,
 .cid-rv3axqIW22 .sig-img {
-  color: #9c969b;
+  color: #232323;
+}
+.cid-rv3axqIW22 .card-title {
+  color: #7f1933;
 }
 .cid-rv3axPf0bB {
   padding-top: 30px;
